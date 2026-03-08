@@ -1,9 +1,21 @@
-# Jackson Boone – IT / Computer Information Systems Student
+# Steve Rogers  
+### Computer Information Systems Student | IT Support | Aspiring Developer
 
 Welcome to my professional portfolio. I am currently studying Computer Information Systems and developing skills in programming, operating systems, networking, and cybersecurity. This portfolio highlights projects and coursework that demonstrate my technical abilities and problem-solving skills.
 
-## Skills
+---
 
+## Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Additional Skills
 - Technical Troubleshooting & IT Support  
 - Help Desk Ticketing Systems  
 - Windows Operating Systems  
@@ -11,12 +23,12 @@ Welcome to my professional portfolio. I am currently studying Computer Informati
 - Hardware & Software Installation  
 - Microsoft Office (Word, Excel, PowerPoint)  
 - GitHub & Version Control Basics  
-- C / C++ Programming Fundamentals  
 - Customer Service & Communication  
 - Problem Solving & Technical Documentation  
 
-## Projects
+---
 
+## Projects
 ### 1. E-Commerce Website
 
 **Technologies Used:**  
