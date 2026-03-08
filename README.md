@@ -56,3 +56,10 @@ Python, Flask, MySQL, SQLAlchemy
 
 **Description:**  
 CalorieMate is a web application designed to help users track calories, manage nutrition data, and organize health-related information. The project uses the Flask web framework to create the backend application and connects to a MySQL database using SQLAlchemy for data management. The application includes a basic user model and database structure that can be expanded to support food tracking, exercise logging, and user authentication. This project demonstrates experience with backend web development, database integration, and building scalable application foundations using Python.
+
+---
+
+## Contact
+
+Email: jboone1998@live.com
+LinkedIn: www.linkedin.com/in/jackson-boone-88ab35256
