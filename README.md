@@ -1,4 +1,4 @@
-# Steve Rogers  
+# Jackson Boone 
 ### Computer Information Systems Student | IT Support | Aspiring Developer
 
 Welcome to my professional portfolio. I am currently studying Computer Information Systems and developing skills in programming, operating systems, networking, and cybersecurity. This portfolio highlights projects and coursework that demonstrate my technical abilities and problem-solving skills.
